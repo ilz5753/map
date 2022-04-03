@@ -18,7 +18,6 @@
     "@react-navigation/native": "^6.0.6",
     "@react-navigation/stack": "^6.0.11",
     "@reduxjs/toolkit": "^1.7.1",
-    "@shopify/react-native-skia": "/Users/apple/Downloads/shopify-react-native-skia-0.1.109.tgz",
     "@unimodules/core": "^7.1.2",
     "@unimodules/react-native-adapter": "^6.3.9",
     "expo": "~44.0.0",
