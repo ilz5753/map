@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "both",
-    "slug": "both",
+    "name": "map",
+    "slug": "map",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,12 +13,11 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "userInterfaceStyle": "automatic"
+      "userInterfaceStyle": "automatic",
+      "bundleIdentifier": "com.maa7835.map"
     },
     "android": {
       "adaptiveIcon": {
@@ -26,7 +25,7 @@
         "backgroundColor": "#FFFFFF"
       },
       "userInterfaceStyle": "automatic",
-      "package": "com.maa7835.both"
+      "package": "com.maa7835.map"
     },
     "web": {
       "favicon": "./assets/favicon.png",
