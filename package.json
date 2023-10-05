@@ -115,7 +115,7 @@
     "redux-thunk": "^2.4.1",
     "rescript-react-native": "^0.68.1",
     "rn-fetch-blob": "^0.12.0",
-    "three": "^0.137.0",
+    "three": "^0.156.1",
     "wonka": "^4.0.15",
     "xml-js": "^1.6.11",
     "xml2json": "^0.12.0"
